@@ -7,3 +7,7 @@ Display temperature, humidity, wind speed, and conditions (clear, rainy, etc.)
 Responsive and easy-to-use interface
 Supports both Celsius and Fahrenheit units
 Handles API errors and invalid inputs gracefully
+
+
+
+You just have to import some libararies like PyQt5 and sys,requests ,u can check it on code
